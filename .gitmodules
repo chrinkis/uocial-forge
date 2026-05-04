@@ -1,0 +1,8 @@
+[submodule "api"]
+	path = api
+	url = git@github.com:chrinkis/uocial-api.git
+	branch = v0.0.1
+[submodule "web"]
+	path = web
+	url = git@github.com:chrinkis/uocial-web.git
+	branch = v0.0.1

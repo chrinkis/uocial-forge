@@ -1,8 +1,8 @@
 [submodule "api"]
 	path = api
 	url = https://github.com/chrinkis/uocial-api.git
-	branch = v0.2.0
+	branch = v0.3.0
 [submodule "web"]
 	path = web
 	url = https://github.com/chrinkis/uocial-web.git
-	branch = v0.0.1
+	branch = v0.1.0
